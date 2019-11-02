@@ -65,5 +65,8 @@ output yang ditampillkan:
 
 flowchart:
 
+![flowchart](https://github.com/miftahuljannah1202/labspy02/blob/master/gambar/flowchart.PNG)
+
+
 
 
